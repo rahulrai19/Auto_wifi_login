@@ -3,7 +3,10 @@
 A sleek and powerful browser extension that allows you to save your captive portal WiFi credentials and log in automatically with a single click, without ever needing to look at the login page.
 
 ## Installation
-
+* Available on Edge : [Click here](https://microsoftedge.microsoft.com/addons/detail/wifi-auto-login/kcchnklcdhchldgklnlljpoobcbmnfck) to install.
+  
+* Coming soon on Chrome...
+  
 Before you install, ensure you have placed your desired logo image named exactly `logo.png` inside this extension folder.
 
 ### Google Chrome
