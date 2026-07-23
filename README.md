@@ -9,6 +9,8 @@ A sleek and powerful browser extension that allows you to save your captive port
   
 Before you install, ensure you have placed your desired logo image named exactly `logo.png` inside this extension folder.
 
+* `ABESEC` wifi login link used in Credentials : https://192.168.1.254:8090/httpclient.html
+  
 ### Google Chrome
 1. Open Google Chrome and navigate to `chrome://extensions/` in the address bar.
 2. Enable **Developer mode** using the toggle switch in the top right corner.
